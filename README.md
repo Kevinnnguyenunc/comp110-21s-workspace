@@ -1,4 +1,4 @@
-# COMP110 Workspace - Spring 2021
+help# COMP110 Workspace - Spring 2021
 
 Your work in the course will be completed in this workspace. Instructions for the two most common tasks you'll perform can be found below.
 
